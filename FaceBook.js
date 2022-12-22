@@ -2,7 +2,6 @@
 // Test request : Postman
 let userName = document.getElementById('userName');
 let userId = document.getElementById('userId');
-let user = document.getElementById('userGender');
 //Link đã tham khảo: https://stackoverflow.com/questions/523266/how-can-i-get-a-specific-parameter-from-location-search
 // new URL(location.href).searchParams.get('year')
 // // Returns 2008 for href = "http://localhost/search.php?year=2008".
